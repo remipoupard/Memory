@@ -1,0 +1,3 @@
+class Plateau{
+    Carte[] plateau;
+}

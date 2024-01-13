@@ -1,0 +1,31 @@
+
+ .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| | ____    ____ | || |  _________   | || | ____    ____ | || |     ____     | || |  _______     | || |  ____  ____  | |
+| ||_   \  /   _|| || | |_   ___  |  | || ||_   \  /   _|| || |   .'    `.   | || | |_   __ \    | || | |_  _||_  _| | |
+| |  |   \/   |  | || |   | |_  \_|  | || |  |   \/   |  | || |  /  .--.  \  | || |   | |__) |   | || |   \ \  / /   | |
+| |  | |\  /| |  | || |   |  _|  _   | || |  | |\  /| |  | || |  | |    | |  | || |   |  __ /    | || |    \ \/ /    | |
+| | _| |_\/_| |_ | || |  _| |___/ |  | || | _| |_\/_| |_ | || |  \  `--'  /  | || |  _| |  \ \_  | || |    _|  |_    | |
+| ||_____||_____|| || | |_________|  | || ||_____||_____|| || |   `.____.'   | || | |____| |___| | || |   |______|   | |
+| |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
+
+
+Le Memory est un jeu de société classique qui met à l'épreuve votre mémoire.
+Le but du jeu est de trouver toutes les paires de cartes correspondantes.
+
+Règles du jeu :"+NEW_LIGNE+
+1. Le jeu se joue avec un ensemble de cartes face cachée.
+2. Retournez deux cartes à la fois pour trouver des paires.
+3. Si les cartes que vous retournez ne sont pas identiques, retournez-les face cachée.
+4. Rappelez-vous de l'emplacement des cartes que vous avez retournées pour pouvoir former des paires.
+5. Continuez à retourner les cartes jusqu'à ce que toutes les paires aient été trouvées.
+6. Le joueur qui trouve le plus grand nombre de paires gagne.
+
+Conseils :
+- Concentrez-vous et mémorisez l'emplacement des cartes.
+- Jouez avec des amis pour rendre le jeu plus amusant et compétitif.
+
+Amusez-vous bien en jouant au Memory !
+
