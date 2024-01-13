@@ -1,18 +1,14 @@
-<Mettre ici le nom de votre jeu>
-
- Memory
+Memory
 
 
 Développé par Mohamed TAARIT et Rémi Ramaut-Poupard
 Contacts : <mohamed.taarit.etu@univ-lille.fr> , <remi.poupard-ramaut.etu@univ-lille.fr>
 
-# Présentation de <le Memory>
+# Présentation de Memory
 
-<Description de votre jeu>
 Des captures d'écran illustrant le fonctionnement du logiciel sont proposées dans le répertoire shots.
 
-
-# Utilisation de <le nom de votre jeu>
+# Utilisation de Memory
 
 Afin d'utiliser le projet, il suffit de taper les commandes suivantes dans un terminal :
 
