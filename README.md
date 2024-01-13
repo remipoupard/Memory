@@ -1,7 +1,7 @@
 Memory
 ===========
 
-Développé par Mohamed TAARIT et Rémi Ramaut-Poupard \n
+Développé par Mohamed TAARIT et Rémi Ramaut-Poupard  
 Contacts : <mohamed.taarit.etu@univ-lille.fr> , <remi.poupard-ramaut.etu@univ-lille.fr>
 
 # Présentation de Memory
